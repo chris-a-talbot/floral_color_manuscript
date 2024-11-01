@@ -1,0 +1,7 @@
+data/*
+pfc/*
+*.Rproj
+*.RData
+*.Rhistory
+*.zip
+*.Rproj.*
