@@ -12,7 +12,7 @@
 5. Calculate range overlap for all species pairs using `overlap stuff again.R` or `Range Overlap Calculator.R` (depending on raster or geometry representation)
 6. Gather and process phenology data using `Phenology.R`
 7. Select focal sites for analysis with `site_picker.R`
-8. Run analysis for each major question using `New Question 1.R`, `New Question 2.R`, and/or `New Question 3.R`
+8. **Run analysis for each major question using `New Question 1.R`, `New Question 2.R`, and/or `New Question 3.R`**
 
 - To create a phylogeny of species with tips colored by floral color, use `megatree.R`
 - To recreate other figures, use `Figures.R`
