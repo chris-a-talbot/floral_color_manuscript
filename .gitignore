@@ -5,3 +5,4 @@ pfc/*
 *.Rhistory
 *.zip
 *.Rproj.*
+*.gitignore
