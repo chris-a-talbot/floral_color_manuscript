@@ -2,8 +2,8 @@
 
 ## Workflow:
 
-*Note 1: Gathering of phylogeny and floral color data not included in this workflow*
-*Note 2: To recreate results, download `floral_color_manuscript_data.zip` from releases, unzip, and run #8 from this workflow*
+- *Note 1: Gathering of phylogeny and floral color data not included in this workflow*
+- *Note 2: To recreate results, download `floral_color_manuscript_data.zip` from releases, unzip, and run #8 from this workflow*
 
 1. Download species occurrences from GBIF, clean them up, and format the data using `Distribution Downloader.Rmd`
 2. Clean up and standardize taxonomical nomenclature using `Taxonomy Updater.R`
